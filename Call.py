@@ -2,7 +2,7 @@ from twilio.rest import TwilioRestClient
 import time
 
 FROM = "+14805269314"
-CALLED = "+1"
+CALLED = "+19015790029"
 ACCOUNT_SID = "ACb3ee23ba7ddabf9d3580fec88d43768b"
 AUTH_TOKEN = "6b86d98e3f7c760b469a811b653aea8a"
 
